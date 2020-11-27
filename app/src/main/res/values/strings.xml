@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Dieta Julian Cobos</string>
+    <string name="cobos">Cobos Vargas Irvin Julian</string>
+    <string name="btn1">Dieta 01</string>
+    <string name="btn2">Dieta 02</string>
+    <string name="btn3">Dieta 03</string>
+    <string name="btn4">Dieta 04</string>
+    <string name="btn5">Dieta 05</string>
+    <string name="btn6">Dieta 06</string>
+    <string name="btn7">Dieta 07</string>
+    <string name="sigue">Síguenos para más dietas</string>
+
+    <string name="desayuno">DESAYUNO</string>
+    <string name="deportistas">Para deportistas</string>
+    <string-array name="d1_deportistas">
+        <item>Café con leche desnatada.</item>
+        <item>Una rebanada de pan integral con una tortilla francesa de un huevo entero y dos claras de otro huevo con dos lonchas de jamón ibérico picaditas.</item>
+        <item>Una pieza de fruta.</item>
+    </string-array>
+    <string name="hombres">Para hombres</string>
+    <string-array name="d1_hombres">
+        <item>Café con leche desnatada.</item>
+        <item>Una rebanada de pan integral con un chorrito de aceite de oliva extra virgen.</item>
+        <item>Dos lonchas de jamón ibérico.</item>
+        <item>Una pieza de fruta (cualquiera excepto el plátano, el mango y el melón).</item>
+    </string-array>
+    <string name="mujeres">Para mujeres</string>
+    <string-array name="d1_mujeres">
+        <item>Café con leche desnatada.</item>
+        <item>Dos biscotes de pan integral tostado con un chorrito de aceite de oliva extra virgen.</item>
+        <item>Dos lonchas de jamón ibérico.</item>
+        <item>Una pieza de fruta (cualquiera excepto el plátano, el mango y el melón).</item>
+    </string-array>
+    <string name="mediamanana">MEDIA MAÑANA</string>
+    <string-array name="d1_mediamanana">
+        <item>Una pieza de fruta (cualquiera excepto el plátano, el mango y el melón).</item>
+        <item>Dos nueces.</item>
+    </string-array>
+    <string name="comida">COMIDA</string>
+    <string-array name="d1_comida">
+        <item>Bebida: Una copita de vino tinto, aproximadamente 150 ml. Opción sólo para los hombres.</item>
+        <item>Evitar: Pan.</item>
+        <item>Comida: Setas rehogadas con taquitos de jamón ibérico. Bistec de ternera a la plancha con una pizca de mostaza de Dijon.</item>
+    </string-array>
+    <string name="merienda">MERIENDA</string>
+    <string-array name="d1_merienda_depor">
+        <item>Un yogurt desnatado.</item>
+        <item>Un biscote de pan integral tostado con tomate triturado.</item>
+        <item>Dos lonchas de jamón ibérico.</item>
+        <item>Dos nueces.</item>
+    </string-array>
+    <string-array name="d1_merienda_hombre">
+        <item>Descafeinado con leche o infusión relax o tila-naranjo.</item>
+        <item>Un yogurt desnatado.</item>
+        <item>Dos nueces.</item>
+    </string-array>
+    <string-array name="d1_merienda_mujer">
+        <item>Descafeinado con leche o infusión relax o tila-naranjo.</item>
+        <item>Un yogurt desnatado.</item>
+        <item>Una onza de chocolate negro puro.</item>
+    </string-array>
+    <string name="cena">CENA</string>
+    <string-array name="d1_cena">
+        <item>Bebida: Una copita de vino tinto, aproximadamente 150 ml. Hombres y mujeres.</item>
+        <item>Evitar: Pan.</item>
+        <item>Comida: Un tazón de caldo de verduras. Dos lonchas de jamón ibérico y 100 gr de pulpo con sal gorda, pimentón y un chorrito de aceite de oliva. De postre, una onza de chocolate negro puro.</item>
+    </string-array>
+</resources>
